@@ -1,2 +1,2 @@
 # python-lesson3
-Python学習用　み）
+Python学習用　みtest
